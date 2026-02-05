@@ -130,7 +130,7 @@ weighted avg       0.90      0.89      0.87     79044
 
 ### Clone repo
 ```bash
-git clone https://github.com/your-username/keras-api-project.git
+git clone https://github.com/rohitb281/keras-api-project.git
 cd keras-api-project
 ```
 
